@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "271200451603",
+    "project_id": "tstfb-41dcf",
+    "storage_bucket": "tstfb-41dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271200451603:android:484717605cbdb75aaed3e6",
+        "android_client_info": {
+          "package_name": "com.example.tstfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6gj5JSwjx8HhQ3pkil5_Inh4AWVpHV8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271200451603:android:2de59cb276941426aed3e6",
+        "android_client_info": {
+          "package_name": "com.example.wedding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6gj5JSwjx8HhQ3pkil5_Inh4AWVpHV8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
